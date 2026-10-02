@@ -1,0 +1,76 @@
+To: Emmanuel Bhaskar <production@acesworldwide.net>
+Cc: Pan Suqi <sqpan@wspc.com>
+Subject: Re: Page proof 2650030 — IJWMIP — corrections returned (Sanad et al.)
+
+Dear Emmanuel,
+
+Thank you for the page proof of manuscript 2650030, "On the domination energy of k-uniform
+hypergraphs with applications to supply chain resilience".
+
+Please find attached the annotated proof PDF, in which all corrections are marked directly on the
+pages with the page and line numbers indicated. I am the corresponding author and I have consolidated
+the comments of all four authors into this single file, as requested.
+
+Answers to the Author Queries:
+
+AQ (p. 1) — ORCID iDs. Three iDs are already correct as printed. The missing one is the third
+author; please insert on p. 18, line 9:
+    Abdulqawe Kaed — https://orcid.org/0009-0007-4272-2158
+The remaining three are confirmed as printed:
+    Abdulkafi Sanad — https://orcid.org/0009-0004-6877-9281
+    Sultan Mahde   — https://orcid.org/0000-0003-2325-0240
+    Abaid Ullah    — https://orcid.org/0009-0003-4880-186X
+
+AQ (p. 3) — Short running head. Approved. "Domination energy of k-uniform hypergraphs" is correct.
+
+AQ (p. 15) — Insertion of the text citation for Fig. 4. Not approved in that position: the citation
+has been placed at the end of the proof of Theorem 13, which concerns the greedy set-cover guarantee
+and is unrelated to the figure. Please delete "(Fig. 4)" on p. 15, line 5, and instead insert the
+following sentence at the beginning of Sec. 4.5 (p. 16, line 2), which cites both Fig. 4 and Table 1
+(Table 1 is at present not cited anywhere in the text):
+
+    "Table 1 summarizes the tiered mitigation framework derived from these criticality scores, and
+    Fig. 4 shows the corresponding monitoring architecture: enterprise data sources feed the
+    criticality analysis engine, whose outputs drive the decision-support layer."
+
+AQ (p. 17) — Removal of "Declaration of Interests" and "Author Contributions". Confirmed; both
+sections may be deleted as marked.
+
+Three corrections are substantive and I would be grateful if they could be given particular
+attention:
+
+1. p. 17, lines 26-32 — the closing paragraph of the Conclusion is duplicated: the same content
+   appears twice in two different wordings. Please delete the second occurrence, from "Beyond the
+   extremal and structural questions..." through "...for signals on graphs and hypergraphs.13,28,27",
+   and let the sentence "Investigating domination-based multiscale decompositions of hypergraph
+   signals is left for future work." follow directly after "...for graph and hypergraph
+   signals.13,28,27" on line 26.
+
+2. p. 16, Table 2, "Customer preference" row — the entry reads "Preferred supplier status in 1"; the
+   word "RFPs" has been lost. It should read "Preferred supplier status in RFPs".
+
+3. p. 9 (lines 8-9) and p. 10 (caption of Fig. 2) — the figure shows nine separate hypergraphs
+   H1,...,H9, none of which is a complete hypergraph, so the caption and the sentence pointing to it
+   are inaccurate. The artwork is to be kept exactly as printed; please amend the two wordings only:
+       - p. 9, last sentence of Definition 7: replace "See Fig. 2 for an illustration of a complete
+         3-uniform hypergraph." with "See Fig. 2 for examples of 3-uniform hypergraphs."
+       - p. 10, caption: replace "Fig. 2. A complete 3-uniform hypergraph." with "Fig. 2. Examples of
+         3-uniform hypergraphs."
+
+All remaining corrections are minor (restoration of em-dashes in four sentences, two missing city
+names in the affiliations, one wording change in the Conclusion for consistency with Theorem 13, and
+three hyphens) and are marked on the attached PDF.
+
+I confirm that all figures, tables and references are cited in the text once the insertion in Sec. 4.5
+above is made.
+
+We do not wish to publish under the Open Access option at this time.
+
+With thanks for your careful work on the proof.
+
+Kind regards,
+
+Abdulkafi Sanad (on behalf of all authors)
+School of Mathematics and Statistics, Yunnan University
+Kunming 650500, P. R. China
+abdulkafisanad@stu.ynu.edu.cn
